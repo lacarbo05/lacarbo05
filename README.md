@@ -4,7 +4,7 @@ I'm a CSCE Engineering Honors student at Texas A&M University.<br><br>As an aspi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/logan-a-carbo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacarbo@tamu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lacarbo@tamu.edu)
 
 # 💻 Tech Stack:
 ### Programming Languages
